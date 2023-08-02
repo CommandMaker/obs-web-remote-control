@@ -1,0 +1,9 @@
+*
+!*/
+.vscode/
+node_modules/
+public/
+!*.ts
+!*.vue
+!*.html
+!.json
